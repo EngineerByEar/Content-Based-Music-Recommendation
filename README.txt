@@ -8,7 +8,6 @@ Here´s how to get it running:
 	- Open http://127.0.0.1:5000/ in your browser | Or the URL that´s logged in the console.
 
 Have fun trying out the app and leave a star on my GitHub-Repo! ;)
-https://github.com/EngineerByEar/Music-Recommendation-First-JS-Python-Project-
 
 The recommender gives content based recommendations. Contrary to popular music recommendation algorithms it looks at different qualities of the audio itself and determines which song fits the selected parameters best.
 The model uses data from the high-popularity-spotify-music dataset which already includes the audio features: Spotify Music Dataset.
