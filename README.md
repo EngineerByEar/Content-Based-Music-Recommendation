@@ -16,7 +16,7 @@ The application matches user-defined audio preferences to the most similar track
   <img src="screenshots/parameter_select.png" width="70%"/>
 </p>
 <p align="center">
-  <img src="screenshots/get_recommendation.png" height="35%"/>
+  <img src="screenshots/get_recommendation.png"height="300px"/>
 </p>
 ## 🤖 Model
 
