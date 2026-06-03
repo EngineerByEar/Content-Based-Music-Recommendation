@@ -18,6 +18,7 @@ The application matches user-defined audio preferences to the most similar track
 <p align="center">
   <img src="screenshots/get_recommendation.png"height="300px"/>
 </p>
+
 ## 🤖 Model
 
 A **K-Nearest Neighbors (KNN)** model is used to find the track closest to the user's input:
