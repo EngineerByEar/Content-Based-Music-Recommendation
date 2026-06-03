@@ -11,6 +11,11 @@ The application matches user-defined audio preferences to the most similar track
 - Receive a track recommendation with matching audio features
 - Open the recommended track directly in Spotify
 
+## 📸 Interface
+
+![Landing Page](screenshots/parameter_select.png)
+![Recommendation Result](screenshots/get_recommendation.png)
+
 ## 🤖 Model
 
 A **K-Nearest Neighbors (KNN)** model is used to find the track closest to the user's input:
