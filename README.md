@@ -2,8 +2,6 @@
 
 This project is a full-stack web application that recommends Spotify tracks based on audio feature input using a K-Nearest Neighbors model. Users can select a genre and adjust audio parameters to find the closest matching track in the dataset.
 
----
-
 ## 🎯 Overview
 
 The application matches user-defined audio preferences to the most similar track in a Spotify dataset. Users can:
